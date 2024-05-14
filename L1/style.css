@@ -1,0 +1,21 @@
+body{
+  height: 100vh;
+}
+
+.box{
+
+  /* height: 50px; */
+  min-width: 60px;
+  background-color: aquamarine;
+  border: 1px solid #000;
+}
+
+.img-fluid {
+  max-width: 100%;
+  aspect-ratio: 10/2.5;
+}
+
+#color-backgroud{
+  background-color: aqua;
+}
+
